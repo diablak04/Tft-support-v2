@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode/caching
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime state and configuration
+current_state.json
+
+# Local debug captures and temporary calibration files
+debug/
+debug_captures/
+
+# IDE settings
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
